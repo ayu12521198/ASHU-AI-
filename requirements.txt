@@ -8,8 +8,7 @@ requests
 python-dotenv
 duckduckgo-search
 fuzzywuzzy
-pyautogui  + CategoryInfo          : SecurityError: (:) [], PSSecurityException
-  + FullyQualifiedErrorId : UnauthorizedAccess .  fix
+pyautogui
 pynput
 python-Levenshtein
 pywin32
