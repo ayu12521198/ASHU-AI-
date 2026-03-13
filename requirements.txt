@@ -1,0 +1,16 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+langchain-community
+requests
+python-dotenv
+duckduckgo-search
+fuzzywuzzy
+pyautogui  + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+  + FullyQualifiedErrorId : UnauthorizedAccess .  fix
+pynput
+python-Levenshtein
+pywin32
+livekit
